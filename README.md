@@ -8,6 +8,7 @@ What to expect:
 - 🚀 Data-led decision-making systems you can own
 
 This playbook is designed for hands-on, visionary operators who want to:
+
 ✅ Understand their business like a data scientist (without hiring one)  
 ✅ Turn bottlenecks into breakthroughs  
 ✅ Build sustainable systems that scale with them
