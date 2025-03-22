@@ -1,4 +1,5 @@
 # Coming Soon: The DTC Growth Hacking Playbook
+### Build a founder-led growth system that scales with you
 
 A strategic system for scaling $1M+ eCommerce brands with clarity, confidence, and control — without depending on ads alone.
 
